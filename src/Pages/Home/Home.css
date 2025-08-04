@@ -1,0 +1,24 @@
+body, h1, .Hbody,p {
+	margin: 0;
+	padding: 0;
+}
+
+
+.Hbody{
+	    background-color: #1abc9c;
+		padding-bottom: 60px;
+		  padding-top: 100px;
+}
+img {
+	  min-width: 100px;
+	width:250px; /* هتبدا بده   ومهما   اصغر  مش هتصغر عن 100*/
+	height: auto;
+	padding-bottom: 30px;
+	padding-top: 5%;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+	background-color: white;
+}

@@ -1,0 +1,19 @@
+.active{
+	background-color:#1ABC9C;
+	border-radius: 8px;
+	padding: 8px!important;
+}
+.navbar{
+	background-color: #2C3E50;
+	height: 100px;
+	transition: height 0.3s ease;
+}
+/* .navbar.shrink{
+	height: 60px;
+} */
+.nav-link,
+.nav-link.active,
+.navbar-brand {
+  color: white !important;
+  font-weight: 700;
+}

@@ -1,0 +1,21 @@
+.about-content{
+background-color: #1abc9c;	
+padding-top: 300px;
+padding-bottom: 250px;
+
+}
+.about-content h1 {
+  font-weight: 700;
+}
+
+.line{
+    height: 4px;
+    width: 80px;
+	background-color: white;
+}
+.space1{
+	padding-left: 6rem;
+}
+.space2{
+	padding-right: 8rem;
+}
