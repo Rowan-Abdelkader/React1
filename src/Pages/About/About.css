@@ -13,9 +13,11 @@ padding-bottom: 250px;
     width: 80px;
 	background-color: white;
 }
-.space1{
-	padding-left: 6rem;
-}
-.space2{
-	padding-right: 8rem;
-}
+
+ .space1 {
+	max-width: 550px;
+	padding-bottom: 20px;
+ }
+  .space2 {
+	max-width: 550px;
+ }

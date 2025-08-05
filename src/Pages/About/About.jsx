@@ -14,10 +14,10 @@ const About = () => {
 					</div>
 					<div className='pt-3'>
 <div className='row'>
-	<div className='col-lg-6 space1'>
+	<div className='col-lg-6 space1 '>
 		Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
 	</div>
-	<div className='col-lg-6 space2'>
+	<div className='col-lg-6 space2 '>
 		Freelancer is a free bootstrap theme created by Route. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.
 	</div>
 </div>
